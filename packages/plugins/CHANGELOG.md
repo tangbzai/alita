@@ -1,5 +1,11 @@
 # @alita/plugins
 
+## 3.3.0
+
+### Minor Changes
+
+- [`288ffb6c`](https://github.com/alitajs/alita/commit/288ffb6cbc7871a45303e945b21445f6b1ab5bfd) Thanks [@tangbzai](https://github.com/tangbzai)! - custom tabs props add updateTab
+
 ## 3.2.18
 
 ### Patch Changes
